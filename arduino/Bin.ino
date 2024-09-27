@@ -8,10 +8,10 @@ const int buttonPin = A2;
 // defines variables
 long duration;
 int distance;
-Servo myservo;  // create servo object to control a servo
+Servo myservo;  
 // twelve servo objects can be created on most boards
 
-int pos = 90;    // variable to store the servo position
+int pos = 90; // variable to store the servo position
 int isFull = false;
 int thres = 16;
 int timer = 0;
