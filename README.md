@@ -3,10 +3,6 @@ Waste collection and management using IoT and Computer Vision.
 
 ## Demo
 
-Connect machine to Arduino and run `python/predict.py`.
-
-### Recycling with computer vision
-
 Recyclable wastes will be dropped inside the bin.
 
 ![](image/bag.gif)
